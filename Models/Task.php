@@ -27,7 +27,7 @@ class Task extends Model {
 		],
 		[
 			'name' => 'is_completed',
-			'display_name' => 'Завершена',
+			'display_name' => 'Выполнено',
 			'sortable' => false,
 			'required' => false,
 			'type' => 'i',
